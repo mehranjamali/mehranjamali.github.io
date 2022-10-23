@@ -50,6 +50,8 @@ The general page breakdown looks like this: (Protected = need login)
   - Pagination
   - Search
 
+## test 
+I implemented `unit test` for "slices/posts.ts" inside `__tests__` folder using `jest` and `axios-mock-adapter` 
 
 ## Redux
 
